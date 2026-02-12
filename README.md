@@ -8,3 +8,8 @@
 - `Build`: 游戏打包后的可执行文件，包含`windows`版本的客户端和`linux`版本的服务端。
   - 服务端类似websocket服务器，负责处理玩家的联机请求和数据传输。
   - 玩家下载客户端进行游戏联机。
+
+### 效果图
+<img width="1776" height="1965" alt="image" src="https://github.com/user-attachments/assets/abce356a-befd-42ec-a7f1-85b351d20594" />
+
+
